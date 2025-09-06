@@ -1,0 +1,7 @@
+O artigo de David Garlan foi um marco na consolidação da arquitetura de software como disciplina de engenharia. Ele mostrou avanços na padronização de estilos arquiteturais, formalização de modelos e análise mais rigorosa do design e apontou desafios que ainda ecoam hoje.
+
+Na visão de Garlan, o futuro da arquitetura exigiria lidar com sistemas cada vez mais complexos, heterogêneos e em constante evolução. Essa previsão se conecta diretamente com a realidade atual da TI: cloud computing, microserviços, APIs distribuídas, IoT e inteligência artificial ampliaram a necessidade de arquiteturas flexíveis, escaláveis e seguras.
+
+Assim, a principal contribuição do texto é ter fornecido um mapa estratégico que antecipou tendências que hoje estruturam a prática arquitetural em TI. Apesar de escrito há 25 anos, continua relevante como base para entender os rumos de arquiteturas modernas, como serverless, event-driven e arquiteturas orientadas a domínio.
+
+
