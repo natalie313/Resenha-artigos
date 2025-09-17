@@ -1,0 +1,7 @@
+A análise dos capítulos 4, 5 e 6 da obra Strategic Design e Domain-Driven Design evidencia como os conceitos do DDD podem ser aplicados ao contexto mercantil. O capítulo 4, dedicado ao Context Mapping, destaca a importância de definir limites claros entre os Bounded Contexts, garantindo que áreas como vendas, pagamentos e logística mantenham relações estruturadas, semelhantes aos contratos estabelecidos nas operações comerciais tradicionais.
+
+No capítulo 5, sobre Aggregates, observa-se que transações mercantis, como pedidos de compra, funcionam como unidades de consistência, assegurando que regras de negócio — por exemplo, estoque disponível e pagamento aprovado — sejam respeitadas. Essa abordagem reduz dependências e organiza a estrutura interna do domínio.
+
+Por fim, o capítulo 6, que aborda Domain Events, mostra como eventos como Pedido Realizado ou Pagamento Aprovado registram mudanças relevantes e desencadeiam novas ações, permitindo rastreabilidade e transparência nas operações. O uso de event sourcing reforça essa confiabilidade ao preservar o histórico completo de transações.
+
+De modo geral, os três capítulos demonstram que o DDD, ao organizar contextos, estruturar agregados e registrar eventos, reflete de forma eficaz as práticas mercantis, oferecendo sistemas mais consistentes e alinhados à realidade do comércio
