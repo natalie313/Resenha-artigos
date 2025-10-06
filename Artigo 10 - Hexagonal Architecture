@@ -1,0 +1,5 @@
+O artigo “Hexagonal Architecture”, de Alistair Cockburn, propõe uma forma de organizar sistemas em que a lógica de negócio fica isolada das partes externas, como interface, banco de dados e serviços. Essa estrutura, conhecida como Ports and Adapters, permite que o núcleo da aplicação funcione independentemente da tecnologia usada, facilitando testes, manutenção e evolução do sistema.
+
+No Banco Mercantil, onde trabalho, essa abordagem tem relação direta com a forma como os sistemas lidam com transações, cadastros, integrações e serviços externos, como o PIX. Separar o núcleo das partes externas permitiria atualizar tecnologias ou mudar integrações sem afetar as regras de negócio, além de facilitar testes e garantir maior segurança e estabilidade.
+
+De forma geral, a arquitetura hexagonal traz benefícios importantes para o ambiente bancário, pois melhora a flexibilidade, reduz riscos de falhas e torna a manutenção mais eficiente, algo essencial em um setor que exige confiabilidade e agilidade.
